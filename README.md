@@ -11,13 +11,13 @@ Save the Childen es una institución no gubernamental con 100 años de experienc
 
 # RETO
 
-Save the Children cuenta con un grant de Google Adwords con el cual se
+Save the Children cuenta con un gran de Google Adwords con el cual se
 dirigimos tráfico a una página de que tiene como finalidad generar donantes
 recurrentes (https://apoyo.savethechildren.mx/defensores-de-la-ninez-t2)
 
 # PROCESO
 
-Para poder ayudar a Save the Children debemos seguir el proceso de enetendiemiento de como es que opera y como recibe donaciones en este momento.
+Para poder ayudar a Save the Children debemos seguir el proceso de enetendimiento de como es que opera y como recibe donaciones en este momento.
 
 # ORGANIZACION DEL EQUIPO
 
@@ -82,24 +82,24 @@ Con el prototipo anterior se creó una encuesta la cual arrojo los siguientes re
 
 # INSIGHTS
 
-En base a los resultados obtenidos en la encuesta se pudieron obtene vaiosinsights los cuales se muestran a continuación:
+En base a los resultados obtenidos en la encuesta se pudieron obtene varios insights los cuales se muestran a continuación:
 ![insights](assets/images/insights.png)
 
 # BACKLOG
 
-Con los datos de toda la investigación secomenzó a crear el backlog de producto y se procedio aproponer soluciones
+Con los datos de toda la investigación se comenzó a crear el backlog de producto y se procedió a proponer soluciones
 
 ![backlog](assets/images/backlog1.png)
 ![backlog](assets/images/backlog2.png)
 
 # PROPUESTA LANDING PAGE
 
-Con la información recopilada se comenzo a bosquejar un prototipo ára la solución, cadaintegrante de equipo ropuso una opción al área de diseño.
+Con la información recopilada se comenzo a bosquejar un prototipo ára la solución, cada integrante de equipo propuso una opción al área de diseño.
 ![propuesta landing](assets/images/propuesta.png)
 
 # SOLUCION
 
-Alfinal se hizo una combinación de aspectos de las propuestas y el resultado final se muestra a continuación:
+Al final se hizo una combinación de aspectos de las propuestas y el resultado final se muestra a continuación:
 Landing Page
 ![landing](assets/images/landing.png)
 Formulario Donación
@@ -111,7 +111,7 @@ Se puede ver en funcionamiento en el siguiente enlace:
 
 https://karyrq.github.io/prueba-1/.
 
-A la par que se hacía la propuesta para la landing page también se buscó mejorar la aplicación óvil de Save the Children México ña propuesta se muestra a continuación:
+A la par que se hacía la propuesta para la landing page también se buscó mejorar la aplicación móvil de Save the Children México la propuesta se muestra a continuación:
 
 ![wireframe app](assets/images/w1.png)
 ![wireframe app](assets/images/w2.png)
