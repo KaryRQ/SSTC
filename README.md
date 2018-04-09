@@ -32,7 +32,7 @@ Esta se llevo a cabo a través de Trello en el siguiente tablero:
 
 # ANALISIS FODA
 
-![FODA STC](assets/images/FODA.PNG)
+![FODA STC](assets/images/FODA.png)
 
 # OBJETIVOS SMART
 
@@ -56,18 +56,18 @@ Esta se llevo a cabo a través de Trello en el siguiente tablero:
 
 # ESTABLECER OBJETIVO DEL NEGOCIO
 
-![cuadro](assets/images/cuadro.PNG)
+![cuadro](assets/images/cuadro.png)
 
 # USER PERSONA
 
 Se debe establecer quien es el user persona para poder entender como reaccionaría y con esto crear el journey de donación
-![user persona](assets/images/user.PNG)
+![user persona](assets/images/user.png)
 
 # CUSTOMER JOURNEY MAP
 
 En base al user persona definido anteriormente se define su jouney map
 
-![journey map](assets/images/journey.PNG)
+![journey map](assets/images/journey.png)
 
 # TESTEO DE JOURNEY ACTUAL
 
@@ -78,34 +78,34 @@ https://invis.io/26GCC2Y8VTR
 # ENCUESTA
 
 Con el prototipo anterior se creó una encuesta la cual arrojo los siguientes resultados:
-![encuesta](assets/images/encuesta.PNG)
+![encuesta](assets/images/encuesta.png)
 
 # INSIGHTS
 
 En base a los resultados obtenidos en la encuesta se pudieron obtene vaiosinsights los cuales se muestran a continuación:
-![insights](assets/images/insights.PNG)
+![insights](assets/images/insights.png)
 
 # BACKLOG
 
 Con los datos de toda la investigación secomenzó a crear el backlog de producto y se procedio aproponer soluciones
 
-![backlog](assets/images/backlog1.PNG)
-![backlog](assets/images/backlog2.PNG)
+![backlog](assets/images/backlog1.png)
+![backlog](assets/images/backlog2.png)
 
 # PROPUESTA LANDING PAGE
 
 Con la información recopilada se comenzo a bosquejar un prototipo ára la solución, cadaintegrante de equipo ropuso una opción al área de diseño.
-![propuesta landing](assets/images/propuesta.PNG)
+![propuesta landing](assets/images/propuesta.png)
 
 # SOLUCION
 
 Alfinal se hizo una combinación de aspectos de las propuestas y el resultado final se muestra a continuación:
 Landing Page
-![landing](assets/images/landing.PNG)
+![landing](assets/images/landing.png)
 Formulario Donación
-![formulario](assets/images/form.PNG)
+![formulario](assets/images/form.png)
 Agradecimiento de donación
-![agradecimiento](assets/images/gracias.PNG)
+![agradecimiento](assets/images/gracias.png)
 
 Se puede ver en funcionamiento en el siguiente enlace:
 
@@ -113,9 +113,9 @@ https://karyrq.github.io/prueba-1/.
 
 A la par que se hacía la propuesta para la landing page también se buscó mejorar la aplicación óvil de Save the Children México ña propuesta se muestra a continuación:
 
-![wireframe app](assets/images/w1.PNG)
-![wireframe app](assets/images/w2.PNG)
-![wireframe app](assets/images/w3.PNG)
+![wireframe app](assets/images/w1.png)
+![wireframe app](assets/images/w2.png)
+![wireframe app](assets/images/w3.png)
 
 # CONCLUSIONES
 
