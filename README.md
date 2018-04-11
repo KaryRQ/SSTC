@@ -1,6 +1,6 @@
 # Save Save The Children
 
-##Desarrollfo para[Save the Children](https://www.savethechildren.mx)
+## Desarrollado para [Save the Children](https://www.savethechildren.mx)
 
 ![portadastc](https://user-images.githubusercontent.com/32855378/38586822-efa44de0-3ce4-11e8-83fd-59e12958e6d7.png)
 
